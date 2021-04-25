@@ -1,6 +1,6 @@
-Autor: Adam Bazel, xbazel00@stud.fit.vutbr.cz
-Projekt: IPK Projekt 2, varianta ZETA
-Datum: 25. 4. 2021
+# IPK Projekt 2, varianta ZETA
+    Autor: Adam Bazel, xbazel00@stud.fit.vutbr.cz 
+    Datum: 25. 4. 2021
 
 ## Informace:
     Síťový analyzátor, který filtruje, zachytává a vypisuje datový obsah paket.
